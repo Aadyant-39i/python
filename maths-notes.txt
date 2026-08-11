@@ -1,0 +1,43 @@
+KEY CONCEPTS
+
+- Equation: A statement of equality between two expressions, like x + 5 = 12.
+- Variable: A letter like x, y, or z that stands for an unknown number.
+- LHS and RHS: The left side of the equal sign is LHS, and the right side is RHS.
+- Balanced Equation: Both sides of a correct equation always have the same value.
+
+
+RULES FOR SOLVING
+
+- Keep the equation balanced by doing the exact same math operation on both sides.
+- Addition rule: If you add a number to one side, add it to the other side too.
+- Subtraction rule: Subtract the same number from both sides to keep it equal.
+- Multiplication rule: Multiply both sides by the same non-zero number.
+- Division rule: Divide both sides by the same non-zero number.
+
+
+TRANSPOSITION METHOD
+
+- Moving a number or term from one side of the equal sign to the other side is called transposition.
+- Plus becomes minus: +a on one side becomes -a on the other side.
+- Minus becomes plus: -a on one side becomes +a on the other side.
+- Multiply becomes divide: A multiply factor becomes a division denominator.
+- Divide becomes multiply: A division denominator becomes a multiply factor.
+
+
+EXAMPLE STEP-BY-STEP
+
+Solve the equation: 2x - 3 = 7
+
+Step 1: Transpose -3 to the right side. It becomes +3.
+
+New form: 2x = 7 + 3
+
+Step 2: Simplify the right side.
+
+New form: 2x = 10
+
+Step 3: Transpose 2 (which multiplies x) to divide the right side.
+
+New form: x = 10 / 2
+
+Final Answer: x = 5

@@ -1,0 +1,28 @@
+PHYSICS
+
+- Motion in a straight line uses equations like v = u + at.
+- Velocity is the rate of change of displacement.
+- Acceleration is the rate of change of velocity.
+- Newton's first law defines inertia and reference frames.
+- Work done is the dot product of force and displacement vectors.
+- Kinetic energy equals one-half mass times velocity squared (1/2 mv²).
+
+
+CHEMISTRY
+
+- Mole concept states one mole contains 6.022 × 10²³ particles.
+- Atomic radius decreases across a period from left to right.
+- Ionization energy increases across a period.
+- Covalent bonds form through the sharing of electron pairs.
+- Ionic bonds form through the complete transfer of electrons.
+- Enthalpy change (ΔH) measures heat absorbed or released at constant pressure.
+
+
+BIOLOGY
+
+- Cell membrane uses a fluid mosaic model.
+- Mitochondria are the main site for ATP production.
+- Photosynthesis light reactions happen in the thylakoid membrane.
+- Calvin cycle fixes carbon dioxide in the stroma.
+- Enzymes lower the activation energy of biochemical reactions.
+- Mitosis produces two identical diploid daughter cells.
